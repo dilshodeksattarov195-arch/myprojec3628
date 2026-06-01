@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsonnect",
+        "uuid": 2300152,
+        "checksum": "kjjyp6"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
